@@ -99,10 +99,10 @@ python wall_go.py
 ![alt text](https://github.com/philipho11/wallgo/blob/main/wallgo-1.png)
 
 ### Below is the movement screenshot
-![alt text](http://github.com/philipho11/wallgo/blob/main/wallgo-2.png)
+![alt text](https://github.com/philipho11/wallgo/blob/main/wallgo-2.png)
 
 ### Below is another movement screenshot
-![alt text](http://github.com/philipho11/wallgo/blob/main/wallgo-3.png)
+![alt text](https://github.com/philipho11/wallgo/blob/main/wallgo-3.png)
 
 
 # Debugging experience with AI
