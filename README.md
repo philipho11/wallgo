@@ -95,7 +95,13 @@ wall mechanics, and the exact scoring system. You can run it with:
 bash
 python wall_go.py
 
+# Debugging experience with AI
+
+I tested and found that the initial board setup and pieces placement is fine. But in the main game loop, after a player moves their piece, they can continue moving
+it multiple times instead of being forced to place a wall and end their turn. AI can fix the code in one go.
+
 # Ask AI to understand more about python related programming techniques
+It is worthwhile for AI to teach me more about the domain (game) specific programming techniques.
 
 ## What is the major purpose of pygame module here?
 
