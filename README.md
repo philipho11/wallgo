@@ -95,6 +95,16 @@ wall mechanics, and the exact scoring system. You can run it with:
 bash
 python wall_go.py
 
+### Below is the initial screenshot
+![alt text](http://github.com/philipho11/wallgo/wallgo-1.png)
+
+### Below is the movement screenshot
+![alt text](http://github.com/philipho11/wallgo/wallgo-2.png)
+
+### Below is another movement screenshot
+![alt text](http://github.com/philipho11/wallgo/wallgo-3.png)
+
+
 # Debugging experience with AI
 
 I tested and found that the initial board setup and pieces placement is fine. But in the main game loop, after a player moves their piece, they can continue moving
