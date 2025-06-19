@@ -98,7 +98,14 @@ python wall_go.py
 # Debugging experience with AI
 
 I tested and found that the initial board setup and pieces placement is fine. But in the main game loop, after a player moves their piece, they can continue moving
-it multiple times instead of being forced to place a wall and end their turn. AI can fix the code in one go.
+it multiple times instead of being forced to place a wall and end their turn. **AI can fix the code in one go.**
+
+# Unit tests?
+I ask AI to suggest unit tests to test the implementation as i don't think it is effective for me to test it manually. It may take over 10 minutes to test one round from step 0. AI answered, 
+Absolutely! Manual testing is inefficient for a complex game like this. Let me create comprehensive unit tests to verify the game
+logic systematically.
+
+In addition to normal tests that he created, he also create a specific test for the wall placement issue that I encountered earlier. **That's amazing##! After writing tests, he will also run the unit test and got a **pass**!
 
 # Ask AI to understand more about python related programming techniques
 It is worthwhile for AI to teach me more about the domain (game) specific programming techniques.
